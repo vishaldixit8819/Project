@@ -118,7 +118,7 @@
 #three
 {
     grid-column: 2/3;
-    background-image: url(./images/image2.jpg);
+    background-image: url("./images/image2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -126,14 +126,14 @@
 #four
 {
     grid-column: 3/4; 
-    background-image: url(./images/image3.jpeg);
+    background-image: url("./images/image3.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 #five
 {
     grid-column: 1/2;
-    background-image: url(./images/image4.jpg);
+    background-image: url("./images/image4.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -141,14 +141,14 @@
 #six
 {
     grid-column: 2/3;
-    background-image: url(./images/image5.jpg);
+    background-image: url("./images/image5.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 #seven
 {
     grid-column: 3/4;
-    background-image: url(./images/image6.jpg);
+    background-image: url("./images/image6.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
